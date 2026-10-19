@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物(不提交大文件)
+build/
+dist/
+*.exe
+*.spec.bak
+
+# 日志/临时文件
+*.log
