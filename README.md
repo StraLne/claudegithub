@@ -7,6 +7,7 @@
 | 目录 | 说明 |
 | --- | --- |
 | [deepseek-tray](deepseek-tray/) | DeepSeek 余额/状态托盘工具(Windows) |
+| [g502-switcher](g502-switcher/) | 罗技 G502 板载方案切换器(HID++ / DPI) |
 
 ## 约定
 
