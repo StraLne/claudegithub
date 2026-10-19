@@ -1,12 +1,11 @@
-# toolbox
+# claudegithub
 
-个人工具 monorepo:每个子目录是一个独立项目。
+GitHub 侧工具仓库,每个子目录一个独立项目。
 
 ## 项目
 
 | 目录 | 说明 |
 | --- | --- |
-| [deepseek-tray](deepseek-tray/) | DeepSeek 余额/状态托盘工具(Windows) |
 | [g502-switcher](g502-switcher/) | 罗技 G502 板载方案切换器(HID++ / DPI) |
 
 ## 约定
